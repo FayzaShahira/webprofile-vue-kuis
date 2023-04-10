@@ -29,20 +29,18 @@ export default {
 <style>
 /*navbar start*/
 body{
-  margin: 0px;
   background-color:floralwhite;
 }
 nav {
   display: flex;
   justify-content: space-between;
-  padding: 0px 80px;
+  padding: 1px 80px;
   background-color: floralwhite;
 }
 
 .title-navbar{
-  font-family: "Script MT Bold";
+  font-family: "sans-serif";
   font-weight: bold;
-  margin-left: 0px;
   font-size: 25px;
   color: #444444;
 }
@@ -51,7 +49,7 @@ nav {
   align-items: center;
   color: #444444;
   font-size: 20px;
-  font-family:"-apple-system";
+  font-family:"sans-serif";
 }
 .nav-link li{
   list-style: none;
