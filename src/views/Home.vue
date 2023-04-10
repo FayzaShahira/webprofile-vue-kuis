@@ -5,7 +5,7 @@
       Clouds,<br>
       Greentea,<br>
       Music and Han
-<!--      //<img src="src/assets/pil.jpeg" alt="pict"/>-->
+      <img src="src/assets/ive.jpg" alt="pict"/>
     </h1>
   </div>
   <h1 class="scroll">
