@@ -5,7 +5,7 @@
       Clouds,<br>
       Greentea,<br>
       Music and Han
-      <img src="src/assets/ive.jpg" alt="pict"/>
+      <img src="https://www.kanal247.com/images/media/300x188/2020/03/02/0000048971.jpg" alt="pict"/>
     </h1>
   </div>
   <h1 class="scroll">
