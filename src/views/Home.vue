@@ -31,13 +31,12 @@ export default {
 <style scoped>
 
 body{
-  margin: 0px;
   background-color:floralwhite;
 }
 
 .content h1{
   margin-left: 80px;
-  font-family: "Garamond";
+  font-family: "sans-serif";
   font-size: 80px;
   font-weight: bold;
   color: #2c3e50;
