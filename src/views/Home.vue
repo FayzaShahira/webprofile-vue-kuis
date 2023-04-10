@@ -5,7 +5,7 @@
       Clouds,<br>
       Greentea,<br>
       Music and Han
-      <img src="https://i.pinimg.com/originals/a4/0e/8f/a40e8f3a56c14f0ddb988757cdf4372b.jpg" alt="pict"/>
+      <img src="https://i.pinimg.com/564x/00/7d/67/007d67d18547898bc9c166638578c621.jpg" alt="pict"/>
     </h1>
   </div>
   <h1 class="scroll">
@@ -45,7 +45,7 @@ body{
 }
 .content img{
   margin-right: 80px;
-  /*border-radius: 10px;*/
+  border-radius: 10px;
   height: 350px;
   width: 350px;
   float: right;
