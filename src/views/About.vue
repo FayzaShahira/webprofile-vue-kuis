@@ -1,7 +1,7 @@
 <template>
 
   <div class="text1">
-    <img src="src/assets/fayy.jpg" alt="fay">
+    <img src="../assets/fayy.jpg" alt="fay">
     <h5>About Me:</h5>
     <p><br>Born with name 'Fayza Shahira'.
      <br>Growing up, i've been called with several names;
