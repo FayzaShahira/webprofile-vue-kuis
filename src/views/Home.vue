@@ -18,8 +18,10 @@
     Hello! This is Fay, welcome.
   </h3>
   <p>
-    ini isi
+
   </p>
+
+
 </template>
 
 <script>

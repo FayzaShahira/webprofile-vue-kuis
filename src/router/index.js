@@ -17,7 +17,7 @@ const routes = [
     {
         path:"/Social",
         Name:"Social",
-        component: Social,
+        component:Social,
     },
 ];
 
